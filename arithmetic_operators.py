@@ -15,7 +15,7 @@ z = a * b
 print(x)
 print(y)
 print(z)
-
+---------------------------------------------------------------------
 if __name__ == '__main__':
     a = int(input())
     b = int(input())
@@ -25,7 +25,7 @@ if __name__ == '__main__':
       print(a * b)
     else:
       print ("invalid number ")
-
+--------------------------------------------------------------------
 minValue = 10
 maxValue = 50
 
@@ -40,7 +40,7 @@ try:
 
 except:
     print("call the coder")
-
+---------------------------------------------------------------------
 if __name__ == '__main__':
     a = int(input())
     b = int(input())
